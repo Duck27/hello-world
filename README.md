@@ -1,9 +1,9 @@
 # hello-world
-** второй уровень
+## второй уровень
 desc of my hello-world repository
 @Duck27 123
 
-Списки:
+### Списки:
 * 123
 * wewre
 * fdsd
@@ -14,13 +14,13 @@ desc of my hello-world repository
 3. 546
 
 
-Ссылка:
+### Ссылка:
 [google.com]
 
-Изображение:
-!https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg
+### Изображение:
+! https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg
 
-Таблица:
+### Таблица:
 | Заголовок 1 | Заголовок 2 |
 | ----------- | ----------- |
 | Ячейка 1    | Ячейка 2    |
