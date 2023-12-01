@@ -15,10 +15,10 @@ desc of my hello-world repository
 
 
 ### Ссылка:
-[google.com]
+[https://www.google.com/]
 
 ### Изображение:
-! https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg
+!(https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg)
 
 ### Таблица:
 | Заголовок 1 | Заголовок 2 |
